@@ -75,7 +75,7 @@ npm run dev
 
 ## Usage
 
-Navigate to http://localhost:3000
+Navigate to http://localhost:3000/login
 
 Login with default credentials (configured in DB):
 Phone: 0000000000
